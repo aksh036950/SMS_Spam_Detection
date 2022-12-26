@@ -1,2 +1,2 @@
 # Introduction
-The identification of the text of spam messages in the claims is very hard and time consuming task
+The identification of the text of spam messages in the claims is very hard and time consuming task and it involves carefully scanning of hundreds of web pages. I am using a SMS data containing over 5000 messages from UCI datasets to built a model that can detect whether the message is spam or ham. In this I will be using basics of Natural Language Processing and Naive Bayes Classifier to build the model
