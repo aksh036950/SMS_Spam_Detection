@@ -14,6 +14,6 @@ The identification of the text of spam messages in the claims is very hard and t
 1) Natural Language Processing
 2) Naive Bayes Classification
 # Results Obtained
-Precision - 0.97
-Recall - 0.97
+Precision - 0.97,
+Recall - 0.97,
 F1-Score - 0.97
